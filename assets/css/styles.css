@@ -1,0 +1,27 @@
+html {
+    background-color: lightgrey;
+    font-size: 20px;
+}
+h1{
+    font-size: 2rem;
+}
+h2 {
+    font-size: 1.5rem;
+}
+h3 {
+    font-size: 1rem;
+}
+
+.header-menu li {
+    list-style: none;
+    display: inline;
+    padding: 20px;
+}
+.header-menu li a {
+    color: black;
+    font-style: none;
+    text-decoration: none;
+}
+.header-menu li a:hover {
+    color: darkgrey;
+}
